@@ -1,5 +1,5 @@
 {% set name = "google-cloud-ndb" %}
-{% set version = "2.3.2" %}
+{% set version = "2.3.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/google_cloud_ndb-{{ version }}.tar.gz
-  sha256: aa00da7149ba181bc99c0f6e73745a17c2137ee367cb291448ea3988b1347832
+  sha256: f0b22067f4f5159192bfc311989988335a3a8dd570d9ae3cd4527ca74b9b1091
 
 build:
   noarch: python
