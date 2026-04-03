@@ -11,6 +11,8 @@ Summary: NDB library for Google Cloud Datastore
 
 Development: https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-ndb
 
+Documentation: https://googleapis.dev/python/python-ndb/latest/
+
 This is an updated version of the ndb client library for use with Google Cloud Datastore.
 Client Library Documentation - https://googleapis.dev/python/python-ndb/latest
 Product Documentation - https://cloud.google.com/datastore/docs
