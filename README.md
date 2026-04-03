@@ -3,11 +3,20 @@ About google-cloud-ndb-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/google-cloud-ndb-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/googleapis/python-ndb
+Home: https://pypi.org/project/google-cloud-ndb
 
 Package license: Apache-2.0
 
 Summary: NDB library for Google Cloud Datastore
+
+Development: https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-ndb
+
+This is an updated version of the ndb client library for use with Google Cloud Datastore.
+Client Library Documentation - https://googleapis.dev/python/python-ndb/latest
+Product Documentation - https://cloud.google.com/datastore/docs
+The original Python 2 version of ndb was designed specifically for the Google App Engine python27 runtime and can be found at https://github.com/GoogleCloudPlatform/datastore-ndb-python.
+This version of ndb is designed for the Google App Engine Python 3 runtime, and will run on other Python platforms as well.
+
 
 Current build status
 ====================
