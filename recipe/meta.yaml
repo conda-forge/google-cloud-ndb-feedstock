@@ -40,7 +40,7 @@ test:
 about:
   home: https://pypi.org/project/google-cloud-ndb
   dev_url: https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-ndb
-  docs_url: https://googleapis.dev/python/python-ndb/latest/
+  doc_url: https://googleapis.dev/python/python-ndb/latest/
   description: |
     This is an updated version of the ndb client library for use with Google Cloud Datastore.
     Client Library Documentation - https://googleapis.dev/python/python-ndb/latest
@@ -54,4 +54,3 @@ about:
 extra:
   recipe-maintainers:
     - rxm7706
-
